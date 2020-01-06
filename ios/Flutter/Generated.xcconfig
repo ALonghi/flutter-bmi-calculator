@@ -1,7 +1,7 @@
 // This is a generated file; do not edit or check into version control.
 FLUTTER_ROOT=/Users/zhybrid/Developer/flutter
-FLUTTER_APPLICATION_PATH=/Users/zhybrid/dev/GitHub/flutter_workspace/bmi-calculator
-FLUTTER_TARGET=/Users/zhybrid/dev/GitHub/flutter_workspace/bmi-calculator/lib/main.dart
+FLUTTER_APPLICATION_PATH=/Users/zhybrid/dev/GitHub/flutter_workspace/flutter-bmi-calculator
+FLUTTER_TARGET=/Users/zhybrid/dev/GitHub/flutter_workspace/flutter-bmi-calculator/lib/main.dart
 FLUTTER_BUILD_DIR=build
 SYMROOT=${SOURCE_ROOT}/../build/ios
 FLUTTER_FRAMEWORK_DIR=/Users/zhybrid/Developer/flutter/bin/cache/artifacts/engine/ios
